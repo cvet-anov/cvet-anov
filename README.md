@@ -1,6 +1,4 @@
-
-<img width="30%" align="left" src="https://user-images.githubusercontent.com/78869471/227021864-22267dbb-5959-40fb-af70-8237e3ad97d8.gif">
- <img width="30%" align="right" src="https://user-images.githubusercontent.com/78869471/227023710-6482fc4a-0d63-46ce-af27-23b519ed2eba.gif">
+<img align="left" src="https://user-images.githubusercontent.com/78869471/227024924-47c21541-b520-498e-bfb6-565803bbb772.gif"width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/78869471/227024988-44ab9643-d3be-4c14-9565-8427f497178c.gif" width="30%" style="display:inline;">
 <br>
 <p align="center">
     <a href="https://leetcode.com/cvet-anov/"><img width="48%" src="https://leetcode.card.workers.dev/cvet-anov?theme=dark&font=baloo&extension=null"></a>
