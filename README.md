@@ -2,7 +2,7 @@
 <br>
 <p align="center">
     <h1 align="left">:(</h1>
-    <img align="right" src="https://user-images.githubusercontent.com/78869471/226979499-ea3fcd15-936f-4c65-947d-0248011b986d.gif" width="40%" 
+    <img align="right" src="https://user-images.githubusercontent.com/78869471/226979499-ea3fcd15-936f-4c65-947d-0248011b986d.gif" width="40%" height="30px" 
 </p>
 
 <br>
