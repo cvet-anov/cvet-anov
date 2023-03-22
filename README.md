@@ -2,7 +2,9 @@
 <br>
 <p align="center">
     <h1 align="center">:(</h1>
+    <img align="center" src="https://user-images.githubusercontent.com/78869471/226979499-ea3fcd15-936f-4c65-947d-0248011b986d.gif" width="30%" 
 </p>
+
 <br>
 <p align="center">
     <a href="https://leetcode.com/cvet-anov/"><img width="48%" src="https://leetcode.card.workers.dev/cvet-anov?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
