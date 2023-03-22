@@ -1,4 +1,4 @@
-<img height="150px" width="100%" align="center" src="https://user-images.githubusercontent.com/78869471/227021254-03da7715-a8bf-4024-8fe4-109acc309f4b.gif">
+<img height="150px" width="100%" align="center" src="https://user-images.githubusercontent.com/78869471/227021864-22267dbb-5959-40fb-af70-8237e3ad97d8.gif">
 
 <p align="center">
     <a href="https://leetcode.com/cvet-anov/"><img width="48%" src="https://leetcode.card.workers.dev/cvet-anov?theme=dark&font=baloo&extension=null"></a>
